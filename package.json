@@ -1,0 +1,30 @@
+{
+  "name": "quiet-discordjs",
+  "version": "1.0.0",
+  "description": "Quiet discord.js, with no terminal and quiet.",
+  "keywords": [
+    "quiet",
+    "no-terminal",
+    "discordjs",
+    "discord",
+    "javascript"
+  ],
+  "homepage": "https://github.com/gm4m/quiet-discordjs#readme",
+  "bugs": {
+    "url": "https://github.com/gm4m/quiet-discordjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gm4m/quiet-discordjs.git"
+  },
+  "license": "Apache-2.0",
+  "author": "gm4m",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
